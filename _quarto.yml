@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rushikesh Desai"
+  description: "Data structures, Data science and Quant enthusiasists"
+  navbar:
+    title: "Rushikesh Desai"
+    # background: gray
+    left:
+      - href: posts.qmd
+
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    alignment: left
+  google-analytics: "G-2TG7EMP7LD"
+  cookie-consent: true
+
+format:
+  html:
+    linestretch: 1.3
+    fontsize: 1.15em
+    theme:
+      - cosmo
+      # - brand
+      - theme.scss
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    page-layout: full
+    css: styles.css

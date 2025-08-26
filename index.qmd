@@ -1,0 +1,67 @@
+---
+title: "Rushikesh Desai"
+image: images/Rush_img.jpg
+
+page-layout: full
+about:
+  id: main-content
+  template: trestles
+  image-shape: round
+  links:
+    # - icon: envelope
+    #   href: mailto:rushikesh.r.desai@gmail.com
+    # - icon: briefcase
+    #   href: 
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/rushikesh-desai/
+    # - icon: twitter-x
+    #   href: https://twitter.com/
+    - icon: github
+      text: GitHub
+      href: https://github.com/revilush
+  # - icon: stack-overflow
+  #   href: https://stackoverflow.com/
+  # - icon: mortarboard-fill
+  #   href: https://scholar.google.com/
+  # - icon: person-check-fill
+  #   href: https://orcid.org/
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#main-content}
+
+
+## Interests
+- Data Structure, Algorithms
+  - Distibuted Systems
+  - Databases
+  - 
+- Machine Learning
+  - Natural Language Processing
+  - Time Series Forecasting
+- Statistical / Finance
+  - Portfolio Optimization
+  - 
+
+
+---
+
+## Work History
+ - Research Assistant [| 2024 - 2025]{.gray}
+ - Data Analyst [| 2024 - 2025]{.gray}
+ - Data Scientist [| 2022 - 2023]{.gray}
+ - Full-stack Developer [| 2021 - 2022]{.gray}
+ - Software Engineer [| 2020 - 2021]{.gray}
+
+---
+
+## Education
+ - MS, Computer Science [| NJIT 2025]{.gray}
+ - BS, Computer Science and Engineering [| Shivaji University 2020]{.gray}
+ <!-- - CFA level 1 (inactive) [| CFA Institute 2025]{.gray} -->
+ 
+:::
